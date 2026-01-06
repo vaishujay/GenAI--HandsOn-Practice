@@ -1,0 +1,9 @@
+prefix=/Users/vaishnavirohitkulange/Documents/GENAI_Calssses/ECEL_APP/venv8
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 3.0.18
+Requires: libssl libcrypto

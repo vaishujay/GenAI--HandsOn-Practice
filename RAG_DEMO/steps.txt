@@ -1,0 +1,19 @@
+Create the folder/ Open the folder
+open vs code in a folder  - code .
+install uv # pip install uv
+create folder files using the command [uv init]
+Create virtual environment command uv venv
+Activate environment [source .venv/bin/activate]
+Create requirements.txt file in my folder 
+Install the dependancies in requirements.txt - [uv pip install -r requirements.txt]
+Create .env file
+Add OpenAI Key as a variable inside .env file
+Create ipynb file with name 
+Select the kenel in the .ipynb file
+Start writing the code 
+
+
+
+
+
+ 

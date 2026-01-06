@@ -1,0 +1,5 @@
+#!/Users/vaishnavirohitkulange/Documents/GENAI_Calssses/ECEL_APP/venv8/bin/python3.12
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
